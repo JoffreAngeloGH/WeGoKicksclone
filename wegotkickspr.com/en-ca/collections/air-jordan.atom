@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wegotkickspr.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wegotkickspr.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wegotkickspr.com/en-ca/collections/air-jordan.atom"/>
+  <title>We Got Kicks</title>
+  <updated>2024-01-08T17:49:15-05:00</updated>
+  <author>
+    <name>We Got Kicks</name>
+  </author>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8849365598491</id>
+    <published>2024-01-08T17:49:15-05:00</published>
+    <updated>2024-01-08T17:49:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-sb-la-to-chicago"/>
+    <title>Air Jordan 1 Retro High SB LA To Chicago</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/444d1879b439b80e3265979ad1429d93.jpg?v=1704754155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8849365598491</id>
+      <title>9</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>71-L239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8849365532955</id>
+    <published>2024-01-08T17:49:10-05:00</published>
+    <updated>2024-01-08T17:49:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-og-patent-bred"/>
+    <title>Air Jordan 1 Retro High OG Patent Bred</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/2abd53252e34bee3eb1af9d3ef8365f9.jpg?v=1704754150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8849365532955</id>
+      <title>10</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L237</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8849365500187</id>
+    <published>2024-01-08T17:49:08-05:00</published>
+    <updated>2024-01-08T17:49:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-og-gs-patent-bred"/>
+    <title>Air Jordan 1 Retro High OG GS Patent Bred</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/cd31c8f79b89e01ae8f171d2bef75071.jpg?v=1704754148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8849365500187</id>
+      <title>6.5Y</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L236</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8815272460571</id>
+    <published>2023-12-04T18:01:38-05:00</published>
+    <updated>2023-12-04T18:01:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-og-gs-heritage"/>
+    <title>Air Jordan 1 Retro High OG GS Heritage</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/44e879d287fa09f264e39ebe768f955b.jpg?v=1701730898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8815272460571</id>
+      <title>5Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8815272460571</id>
+      <title>5.5Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8815272427803</id>
+    <published>2023-12-04T18:01:36-05:00</published>
+    <updated>2023-12-04T18:01:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-11-retro-low-gs-cement-grey"/>
+    <title>Air Jordan 11 Retro Low GS Cement Grey</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/480cbff1366da60af3f943ec8137b624.jpg?v=1701730896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8815272427803</id>
+      <title>6.5Y</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>71-L160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8815272362267</id>
+    <published>2023-12-04T18:01:33-05:00</published>
+    <updated>2023-12-04T18:01:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-og-gs-black-metallic-gold"/>
+    <title>Air Jordan 1 Retro High OG GS Black Metallic Gold</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/2ace0dbdc5b1dc098d3909f48f2ff5ab.jpg?v=1701730894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8815272362267</id>
+      <title>4.5Y</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>71-L159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8815271575835</id>
+    <published>2023-12-04T18:01:15-05:00</published>
+    <updated>2023-12-04T18:01:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-4-retro-td-red-thunder"/>
+    <title>Air Jordan 4 Retro TD Red Thunder</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/9d1c099b2d0b968653d0f7d409efb8d2.jpg?v=1701730875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8815271575835</id>
+      <title>10C</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>71-L151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8815271477531</id>
+    <published>2023-12-04T18:01:13-05:00</published>
+    <updated>2023-12-04T18:01:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-mid-gs-85"/>
+    <title>Air Jordan 1 Mid GS 85</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/2199f319d3fbdf51bdcdaa2a4de7277d.jpg?v=1701730873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8815271477531</id>
+      <title>4.5Y</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>71-L150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8815271149851</id>
+    <published>2023-12-04T18:01:04-05:00</published>
+    <updated>2023-12-04T18:01:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-5-retro-gs-concord"/>
+    <title>Air Jordan 5 Retro GS Concord</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/fa22fd9f4d42abec52fc1be823f4b7af.jpg?v=1701730864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8815271149851</id>
+      <title>7Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8812178702619</id>
+    <published>2023-12-01T01:14:25-05:00</published>
+    <updated>2023-12-01T01:14:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-og-gs-royal-reimagined"/>
+    <title>Air Jordan 1 Retro High OG GS Royal Reimagined</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/bcfdecd6a044ad630cbcd2e50d809608.jpg?v=1701411265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8812178702619</id>
+      <title>5.5Y</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>71-L137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8812178669851</id>
+    <published>2023-12-01T01:14:23-05:00</published>
+    <updated>2023-12-01T01:14:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-3-retro-fear-pack-2023"/>
+    <title>Air Jordan 3 Retro Fear Pack 2023</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/8a4807d06260ffa9c377b6d03d960c28.jpg?v=1701411263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8812178669851</id>
+      <title>8</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L136</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8809080914203</id>
+    <published>2023-11-28T15:18:59-05:00</published>
+    <updated>2023-11-28T15:18:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-mid-gs-fierce-pink"/>
+    <title>Air Jordan 1 Mid GS Fierce Pink</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/a8c211a3c4516d27404152cf973986ce.jpg?v=1701202739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8809080914203</id>
+      <title>5.5Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8809080848667</id>
+    <published>2023-11-28T15:18:52-05:00</published>
+    <updated>2023-11-28T15:18:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-4-retro-gs-red-cement"/>
+    <title>Air Jordan 4 Retro GS Red Cement</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/70efe5db8c9c101e75f21d5072f3031e.jpg?v=1701202732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            182.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8809080848667</id>
+      <title>5Y</title>
+      <s:price currency="USD">182.00</s:price>
+      <s:sku>71-L122</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8808476737819</id>
+    <published>2023-11-27T17:42:42-05:00</published>
+    <updated>2023-11-27T17:42:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-4-retro-red-thunder"/>
+    <title>Air Jordan 4 Retro Red Thunder</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/b3496591de6964b82e6ed7672d773e49.jpg?v=1701124962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8808476737819</id>
+      <title>12</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>71-L104</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8808476672283</id>
+    <published>2023-11-27T17:42:26-05:00</published>
+    <updated>2023-11-27T17:42:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-4-retro-lightning-2021"/>
+    <title>Air Jordan 4 Retro Lightning 2021</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/ac727216876ab952a2be19bf9bbe4028.jpg?v=1701124946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8808476672283</id>
+      <title>12</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>71-L105</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8803423387931</id>
+    <published>2023-11-25T00:04:28-05:00</published>
+    <updated>2023-11-25T00:04:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-og-dark-mocha"/>
+    <title>Air Jordan 1 Retro High OG Dark Mocha</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/5390f8f8883ddf35abca17d207b525c7.jpg?v=1700888668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            465.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8803423387931</id>
+      <title>9.5</title>
+      <s:price currency="USD">465.00</s:price>
+      <s:sku>71-L102</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8803423289627</id>
+    <published>2023-11-25T00:04:26-05:00</published>
+    <updated>2023-11-25T00:04:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-3-retro-cool-grey-2021"/>
+    <title>Air Jordan 3 Retro Cool Grey 2021</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/361da5fb72d750af9e56d61914532d09.jpg?v=1700888666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8803423289627</id>
+      <title>9.5</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>71-L101</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8803423256859</id>
+    <published>2023-11-25T00:04:24-05:00</published>
+    <updated>2023-11-25T00:04:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-high-retro-og-pollen"/>
+    <title>Air Jordan 1 High Retro OG Pollen</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/9382212446424c308ea28fe2305f50f1.jpg?v=1700888664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8803423256859</id>
+      <title>9.5</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>71-L100</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8803423093019</id>
+    <published>2023-11-25T00:04:19-05:00</published>
+    <updated>2023-11-25T00:04:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-og-shattered-backboard-3-0"/>
+    <title>Air Jordan 1 Retro High OG Shattered Backboard 3.0</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/918eb801915f0917d3824cf1c6c078c0.jpg?v=1700888659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            365.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8803423093019</id>
+      <title>7.5</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku>71-L98</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8794404847899</id>
+    <published>2023-11-19T13:53:22-05:00</published>
+    <updated>2023-11-19T13:53:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-4-retro-se-craft"/>
+    <title>Air Jordan 4 Retro SE Craft</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/ef6698975207281d48880401d623faef.jpg?v=1700420002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404847899</id>
+      <title>9</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>71-L84</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8794404684059</id>
+    <published>2023-11-19T13:53:19-05:00</published>
+    <updated>2023-11-19T13:53:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/wmns-air-jordan-1-low-white-wolf-grey"/>
+    <title>Wmns Air Jordan 1 Low White Wolf Grey</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/a97b2aa7d31a15814685a846d71444a7.jpg?v=1700419999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404684059</id>
+      <title>W5.5</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L253</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404684059</id>
+      <title>W11.5</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L82</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404684059</id>
+      <title>W12</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L247</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8794404454683</id>
+    <published>2023-11-19T13:53:13-05:00</published>
+    <updated>2023-11-19T13:53:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/wmns-air-jordan-11-retro-neapolitan"/>
+    <title>Wmns Air Jordan 11 Retro Neapolitan</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/5dd43c1f540228ed4c9901f98df57591.jpg?v=1700419993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            245.00 - 255.00
+            <a href="https://wegotkickspr.com/en-ca/products/wmns-air-jordan-11-retro-neapolitan">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404454683</id>
+      <title>W7.5</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>71-L338</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404454683</id>
+      <title>W10</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>71-L77</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404454683</id>
+      <title>W10.5</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>71-L78</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404454683</id>
+      <title>W11</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>71-L246</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8794404454683</id>
+      <title>W11.5</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>71-L339</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8772255645979</id>
+    <published>2023-11-11T15:10:19-05:00</published>
+    <updated>2023-11-11T15:10:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-low-og-gs-black-toe"/>
+    <title>Air Jordan 1 Retro Low OG GS Black Toe</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/753448f4d6ad42c61daccbc11e75d949.jpg?v=1699733419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8772255645979</id>
+      <title>7</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>71-L42</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8772255449371</id>
+    <published>2023-11-11T15:10:07-05:00</published>
+    <updated>2023-11-11T15:10:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/marvel-x-air-jordan-1-retro-high-og-spider-man-across-the-spider-verse"/>
+    <title>Marvel x Air Jordan 1 Retro High OG Spider-Man: Across the Spider-Verse</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/3676f9fdba604115de4781743a344c21.jpg?v=1699733407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00 - 265.00
+            <a href="https://wegotkickspr.com/en-ca/products/marvel-x-air-jordan-1-retro-high-og-spider-man-across-the-spider-verse">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8772255449371</id>
+      <title>9</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L311</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8772255449371</id>
+      <title>12</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku>71-L38</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8772254302491</id>
+    <published>2023-11-11T15:09:45-05:00</published>
+    <updated>2023-11-11T15:09:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-low-se-craft-inside-out-cement-grey"/>
+    <title>Air Jordan 1 Low SE Craft Inside Out - Cement Grey</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/c1fc8358ef216260f62aaa645bb835e8.jpg?v=1699733385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8772254302491</id>
+      <title>9</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L24</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

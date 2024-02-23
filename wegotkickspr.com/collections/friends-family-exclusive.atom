@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wegotkickspr.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wegotkickspr.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wegotkickspr.com/collections/friends-family-exclusive.atom"/>
+  <title>We Got Kicks</title>
+  <updated>2024-01-17T18:18:57-05:00</updated>
+  <author>
+    <name>We Got Kicks</name>
+  </author>
+  <entry>
+    <id>https://wegotkickspr.com/products/8467161678107</id>
+    <published>2024-01-17T18:18:57-05:00</published>
+    <updated>2024-01-17T18:18:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/wgk-black-tee"/>
+    <title>WGK OVERSIZE T-SHIRTS</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>We Got Kicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/files/BLKBLUE.png?v=1705376041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>We Got Kicks<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This "Step into authenticity" collection is our second drop of clothing available to the general public. We combined the streetwear OVERSIZED style with one of the most exclusive shirt materials we could find in the market for the comfort and style everyone looks for and wants. This is a limited drop by quantity and size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHIRTS</s:tag>
+    <s:tag>T SHIRTS</s:tag>
+    <s:tag>WGK</s:tag>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>BLACK / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>BLACK / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>GREY / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>GREY / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>GREY / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>GREY / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>GREY / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>CREAM / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>CREAM / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>CREAM / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>CREAM / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467161678107</id>
+      <title>CREAM / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8268628984091</id>
+    <published>2024-01-08T17:12:42-05:00</published>
+    <updated>2024-01-08T17:12:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/exclusive-wgk-crew-socks"/>
+    <title>EXCLUSIVE WGK &apos;Crew Socks&apos; 2024</title>
+    <s:type>Crew Socks</s:type>
+    <s:vendor>We Got Kicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/files/2_30bf3410-42e2-4844-aff5-9aabd56d9c37.jpg?v=1683522894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>We Got Kicks<br>
+        <strong>Type: </strong>Crew Socks<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1"> RESTOCK 2024! </span>This is our official first ever WGK product. Our 'Crew Socks' are made with 100% Heavyweight Cotton, this makes it one of the most comfortable and most versatile to wear in the market right now. Quality and packaging is our top priority. Our budget friendly price was specially set for all the people that follow us around the world and have been wanting to buy something from our store ever since we got discovered. We are working hard to bring more products just like this in the near future. Rock them with style and TAG US on your social media wearing them!</p>
+<p>*Includes 2 pairs per pack* </p>
+<p>*Fits all sizes*</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8268628984091</id>
+      <title>White</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8268628984091</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8467163414811</id>
+    <published>2023-08-05T03:12:31-04:00</published>
+    <updated>2023-08-05T03:12:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/wgk-uv-light"/>
+    <title>UV LIGHT</title>
+    <s:type>UV Light</s:type>
+    <s:vendor>We Got Kicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/files/UVWEB_80b074dc-796d-485c-a724-27ed08171cff.jpg?v=1691819680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>We Got Kicks<br>
+        <strong>Type: </strong>UV Light<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This "UV Light" helps you identify a replica, normally in replica factories the use an invisible UV Pen to trace markings in a shoe, with this device you are able to spot the differences from real and fake on most shoes. It uses x3 AAA Batteries to power on. (Recommended use with Carbon Batteries not Alkaline Batteries)</p>
+<p>*BATTERIES NOT INCLUDED*</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UV LIGHT</s:tag>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8467163414811</id>
+      <title>UV Light</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+</feed>

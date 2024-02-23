@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wegotkickspr.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wegotkickspr.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wegotkickspr.com/en-ca/collections/all.atom"/>
+  <title>We Got Kicks</title>
+  <updated>2024-02-12T13:32:04-05:00</updated>
+  <author>
+    <name>We Got Kicks</name>
+  </author>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8893890625819</id>
+    <published>2024-02-12T13:32:04-05:00</published>
+    <updated>2024-02-12T13:32:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-se-gs-lottery-pack-grey-fog"/>
+    <title>Dunk Low SE GS Lottery Pack - Grey Fog</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/c3ed6ab04c4a6314a9ef285065761ea0.jpg?v=1707762725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8893890625819</id>
+      <title>6Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L354</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8888321704219</id>
+    <published>2024-02-08T00:53:12-05:00</published>
+    <updated>2024-02-08T00:53:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-miami-dolphins"/>
+    <title>Dunk Low Miami Dolphins</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/5c78e965cbf2681236fe5ed81b1dd293.jpg?v=1707371592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8888321704219</id>
+      <title>10.5</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>71-L344</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8888317608219</id>
+    <published>2024-02-08T00:50:37-05:00</published>
+    <updated>2024-02-08T00:50:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/supreme-logo-waist-bag-black"/>
+    <title>Supreme Logo Waist Bag Black</title>
+    <s:type></s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/1b4d121e3c8404d56ecbdb4211c8baad.webp?v=1707371438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8888317608219</id>
+      <title>O/S</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>71-L359</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589901595</id>
+    <published>2024-02-05T14:49:38-05:00</published>
+    <updated>2024-02-05T14:49:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/the-powerpuff-girls-x-dunk-low-pro-sb-qs-bubbles"/>
+    <title>The Powerpuff Girls x Dunk Low Pro SB QS Bubbles</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/a85d7ebef88146898b1d676a2c110cca.jpg?v=1707162578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589901595</id>
+      <title>9</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>71-L336</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589868827</id>
+    <published>2024-02-05T14:49:27-05:00</published>
+    <updated>2024-02-05T14:49:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/supreme-logo-waist-bag-red"/>
+    <title>Supreme Logo Waist Bag Red</title>
+    <s:type></s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/d50ecaa579d79f3c0dca0501c6e5e598.webp?v=1707162567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589868827</id>
+      <title>O/S</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>71-L332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589770523</id>
+    <published>2024-02-05T14:48:43-05:00</published>
+    <updated>2024-02-05T14:48:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/wmns-dunk-low-harvest-moon"/>
+    <title>Wmns Dunk Low Harvest Moon</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/cdf81bf3b43364724e19c46a14c16306.jpg?v=1707162523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589770523</id>
+      <title>W9.5</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589737755</id>
+    <published>2024-02-05T14:48:37-05:00</published>
+    <updated>2024-02-05T14:48:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/yeezy-boost-350-v2-flax"/>
+    <title>Yeezy Boost 350 V2 Flax</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/75f405eed7c0cb705e1e382230b64e19.jpg?v=1707162517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589737755</id>
+      <title>8.5</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>71-L319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589704987</id>
+    <published>2024-02-05T14:48:35-05:00</published>
+    <updated>2024-02-05T14:48:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/yeezy-500-bone-white-2023"/>
+    <title>Yeezy 500 Bone White 2023</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/069317fae7d5bc5b7e2b977fc7cd1423.jpg?v=1707162515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589704987</id>
+      <title>10.5</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589672219</id>
+    <published>2024-02-05T14:48:30-05:00</published>
+    <updated>2024-02-05T14:48:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/wmns-dunk-low-bacon"/>
+    <title>Wmns Dunk Low Bacon</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/a3ffb0804e1f9c8a66dede3af6b05cca.jpg?v=1707162510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589672219</id>
+      <title>W12.5</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>71-L314</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589672219</id>
+      <title>W13</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>71-L317</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589606683</id>
+    <published>2024-02-05T14:48:23-05:00</published>
+    <updated>2024-02-05T14:48:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/the-powerpuff-girls-x-dunk-low-pro-sb-qs-blossom"/>
+    <title>The Powerpuff Girls x Dunk Low Pro SB QS Blossom</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/8367fb27667d97ad1c247d55143ceba5.jpg?v=1707162503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589606683</id>
+      <title>9</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>71-L310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589573915</id>
+    <published>2024-02-05T14:48:16-05:00</published>
+    <updated>2024-02-05T14:48:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/the-powerpuff-girls-x-dunk-low-pro-sb-qs-buttercup"/>
+    <title>The Powerpuff Girls x Dunk Low Pro SB QS Buttercup</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/95168246b8ff8cf8917f22b614a7a2ce.jpg?v=1707162496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            340.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589573915</id>
+      <title>7</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku>71-L307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589573915</id>
+      <title>9</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku>71-L308</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589573915</id>
+      <title>10</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku>71-L309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8872980250907</id>
+    <published>2024-01-27T17:09:41-05:00</published>
+    <updated>2024-01-27T17:09:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-4-retro-se-craft-olive"/>
+    <title>Air Jordan 4 Retro SE Craft - Olive</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/7edb821cdad7a0f654345140b539e082.jpg?v=1706393381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872980250907</id>
+      <title>11</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>71-L302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8872980218139</id>
+    <published>2024-01-27T17:09:38-05:00</published>
+    <updated>2024-01-27T17:09:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/albino-preto-x-dunk-low-sb-fossil"/>
+    <title>Albino &amp; Preto x Dunk Low SB Fossil</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/302f98bec4ed983e17b02323ed5e1957.jpg?v=1706393379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872980218139</id>
+      <title>8.5</title>
+      <s:price currency="USD">270.00</s:price>
+      <s:sku>71-L301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8872980152603</id>
+    <published>2024-01-27T17:09:36-05:00</published>
+    <updated>2024-01-27T17:09:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-dark-marina-blue"/>
+    <title>Dunk Low Dark Marina Blue</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/a874f72196bfb8cf9787b013c839160e.jpg?v=1706393376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872980152603</id>
+      <title>9.5</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8872980021531</id>
+    <published>2024-01-27T17:09:30-05:00</published>
+    <updated>2024-01-27T17:09:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-gs-laser-fuchsia"/>
+    <title>Dunk Low GS Laser Fuchsia</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/003f49d1e0c07c46119d9d39f41942d0.jpg?v=1706393370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872980021531</id>
+      <title>5Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872980021531</id>
+      <title>5.5Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872980021531</id>
+      <title>7Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L298</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8872979955995</id>
+    <published>2024-01-27T17:09:26-05:00</published>
+    <updated>2024-01-27T17:09:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-gs-pink-foam"/>
+    <title>Dunk Low GS Pink Foam</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/ae8c3b412b771caef14052519a1da1d1.jpg?v=1706393366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872979955995</id>
+      <title>5Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872979955995</id>
+      <title>5.5Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8872979955995</id>
+      <title>6Y</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>71-L295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8871744438555</id>
+    <published>2024-01-26T01:15:17-05:00</published>
+    <updated>2024-01-26T01:15:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-gs-michigan-state"/>
+    <title>Dunk Low GS Michigan State</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/e53c4530b69416472df973fc00e2592c.jpg?v=1706249717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8871744438555</id>
+      <title>4Y</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>71-L277</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8871744438555</id>
+      <title>5Y</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>71-L278</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8871744438555</id>
+      <title>7Y</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>71-L279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8870486343963</id>
+    <published>2024-01-24T23:26:27-05:00</published>
+    <updated>2024-01-24T23:26:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/wmns-gel-1130-silver-dune"/>
+    <title>Wmns Gel 1130 Silver Dune</title>
+    <s:type></s:type>
+    <s:vendor>Asics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/f55f449f54adaa6b8b9d449d25609ba7.jpg?v=1706156788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8870486343963</id>
+      <title>W9.5</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>71-L261</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8870486278427</id>
+    <published>2024-01-24T23:26:24-05:00</published>
+    <updated>2024-01-24T23:26:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-washed-denim"/>
+    <title>Dunk Low Washed Denim</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/77493b9d59c711d093c306fe5f93aa5c.jpg?v=1706156784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            170.00 - 190.00
+            <a href="https://wegotkickspr.com/en-ca/products/dunk-low-washed-denim">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8870486278427</id>
+      <title>8</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8870486278427</id>
+      <title>8.5</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>71-L259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8870486114587</id>
+    <published>2024-01-24T23:25:37-05:00</published>
+    <updated>2024-01-24T23:25:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-gs-michigan-2021"/>
+    <title>Dunk Low GS Michigan 2021</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/138915d568469d32f7efb3bdfddd9466.jpg?v=1706156737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8870486114587</id>
+      <title>6.5Y</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>71-L256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8870485819675</id>
+    <published>2024-01-24T23:24:56-05:00</published>
+    <updated>2024-01-24T23:24:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/wmns-dunk-low-metallic-silver"/>
+    <title>Wmns Dunk Low Metallic Silver</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/20c260354d1ae7cf2e1b504f0f44d5c7.jpg?v=1706156696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8870485819675</id>
+      <title>W7</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>71-L255</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+    <published>2024-01-17T18:18:57-05:00</published>
+    <updated>2024-01-17T18:18:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/wgk-black-tee"/>
+    <title>WGK OVERSIZE T-SHIRTS</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>We Got Kicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/files/BLKBLUE.png?v=1705376041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>We Got Kicks<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This "Step into authenticity" collection is our second drop of clothing available to the general public. We combined the streetwear OVERSIZED style with one of the most exclusive shirt materials we could find in the market for the comfort and style everyone looks for and wants. This is a limited drop by quantity and size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHIRTS</s:tag>
+    <s:tag>T SHIRTS</s:tag>
+    <s:tag>WGK</s:tag>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>BLACK / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>BLACK / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>GREY / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>GREY / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>GREY / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>GREY / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>GREY / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>CREAM / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>CREAM / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>CREAM / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>CREAM / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8467161678107</id>
+      <title>CREAM / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8856823857435</id>
+    <published>2024-01-14T16:03:41-05:00</published>
+    <updated>2024-01-14T16:03:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/dunk-low-se-halloween-cauldron"/>
+    <title>Dunk Low SE Halloween - Cauldron</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/45cc9ff44ef19055d3e083f0ad859e31.jpg?v=1705266221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            155.00 - 165.00
+            <a href="https://wegotkickspr.com/en-ca/products/dunk-low-se-halloween-cauldron">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8856823857435</id>
+      <title>10</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8856823857435</id>
+      <title>10.5</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>71-L337</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8856805474587</id>
+    <published>2024-01-14T15:45:21-05:00</published>
+    <updated>2024-01-14T15:45:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/kobe-8-protro-gs-halo"/>
+    <title>Kobe 8 Protro GS Halo</title>
+    <s:type></s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/64331b41d3d41c00965a110dc6ef744b.jpg?v=1705265121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            232.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8856805474587</id>
+      <title>7Y</title>
+      <s:price currency="USD">232.00</s:price>
+      <s:sku>71-L241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8849365598491</id>
+    <published>2024-01-08T17:49:15-05:00</published>
+    <updated>2024-01-08T17:49:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/air-jordan-1-retro-high-sb-la-to-chicago"/>
+    <title>Air Jordan 1 Retro High SB LA To Chicago</title>
+    <s:type></s:type>
+    <s:vendor>Air Jordan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/444d1879b439b80e3265979ad1429d93.jpg?v=1704754155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Jordan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8849365598491</id>
+      <title>9</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>71-L239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

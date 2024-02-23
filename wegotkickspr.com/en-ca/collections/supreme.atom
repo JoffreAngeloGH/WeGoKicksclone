@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wegotkickspr.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wegotkickspr.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wegotkickspr.com/en-ca/collections/supreme.atom"/>
+  <title>We Got Kicks</title>
+  <updated>2024-02-08T00:50:37-05:00</updated>
+  <author>
+    <name>We Got Kicks</name>
+  </author>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8888317608219</id>
+    <published>2024-02-08T00:50:37-05:00</published>
+    <updated>2024-02-08T00:50:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/supreme-logo-waist-bag-black"/>
+    <title>Supreme Logo Waist Bag Black</title>
+    <s:type></s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/1b4d121e3c8404d56ecbdb4211c8baad.webp?v=1707371438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8888317608219</id>
+      <title>O/S</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>71-L359</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8885589868827</id>
+    <published>2024-02-05T14:49:27-05:00</published>
+    <updated>2024-02-05T14:49:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/supreme-logo-waist-bag-red"/>
+    <title>Supreme Logo Waist Bag Red</title>
+    <s:type></s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/d50ecaa579d79f3c0dca0501c6e5e598.webp?v=1707162567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8885589868827</id>
+      <title>O/S</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>71-L332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/en-ca/products/8173674529051</id>
+    <published>2023-11-14T18:43:58-05:00</published>
+    <updated>2023-11-14T18:43:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/en-ca/products/supreme-socks"/>
+    <title>Supreme Socks</title>
+    <s:type>Supreme</s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/Supreme-Hanes-Crew-Socks-Crew-Socks-4-Pack-White-1100x786_jpg.webp?v=1678968686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong>Supreme<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Supreme</s:tag>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8173674529051</id>
+      <title>White</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>201212</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/en-ca/products/8173674529051</id>
+      <title>Black</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>201211</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+</feed>

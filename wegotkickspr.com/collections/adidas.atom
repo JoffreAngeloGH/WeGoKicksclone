@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wegotkickspr.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wegotkickspr.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wegotkickspr.com/collections/adidas.atom"/>
+  <title>We Got Kicks</title>
+  <updated>2024-02-05T14:48:37-05:00</updated>
+  <author>
+    <name>We Got Kicks</name>
+  </author>
+  <entry>
+    <id>https://wegotkickspr.com/products/8885589737755</id>
+    <published>2024-02-05T14:48:37-05:00</published>
+    <updated>2024-02-05T14:48:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-boost-350-v2-flax"/>
+    <title>Yeezy Boost 350 V2 Flax</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/75f405eed7c0cb705e1e382230b64e19.jpg?v=1707162517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8885589737755</id>
+      <title>8.5</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>71-L319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8885589704987</id>
+    <published>2024-02-05T14:48:35-05:00</published>
+    <updated>2024-02-05T14:48:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-500-bone-white-2023"/>
+    <title>Yeezy 500 Bone White 2023</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/069317fae7d5bc5b7e2b977fc7cd1423.jpg?v=1707162515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8885589704987</id>
+      <title>10.5</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8849365565723</id>
+    <published>2024-01-08T17:49:12-05:00</published>
+    <updated>2024-01-08T17:49:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/bad-bunny-x-forum-buckle-low-blue-tint"/>
+    <title>Bad Bunny x Forum Buckle Low Blue Tint</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/f0288a63bf34f8ad9e823bf86c8a5582.jpg?v=1704754153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8849365565723</id>
+      <title>9</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>71-L238</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8829547479323</id>
+    <published>2023-12-14T17:06:44-05:00</published>
+    <updated>2023-12-14T17:06:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/bad-bunny-x-campus-moon-cloud-white"/>
+    <title>Bad Bunny x Campus Moon Cloud White</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/51d8692114a3d592c7d6f3334a21fec2.jpg?v=1702591604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8829547479323</id>
+      <title>11</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>71-L194</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8810268918043</id>
+    <published>2023-11-29T23:09:04-05:00</published>
+    <updated>2023-11-29T23:09:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-foam-runner-mx-cinder"/>
+    <title>Yeezy Foam Runner MX Cinder</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/a348765cb75b02746852c23c4a8e053e.jpg?v=1701317344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8810268918043</id>
+      <title>10</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>71-L128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8809082323227</id>
+    <published>2023-11-28T15:23:28-05:00</published>
+    <updated>2023-11-28T15:23:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/bad-bunny-x-forum-buckle-low-last-forum"/>
+    <title>Bad Bunny x Forum Buckle Low Last Forum</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/19ae08105d61f8c8aa41a80fe028c6a6.jpg?v=1701203008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            230.00 - 280.00
+            <a href="https://wegotkickspr.com/products/bad-bunny-x-forum-buckle-low-last-forum">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8809082323227</id>
+      <title>4</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>71-L285</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8809082323227</id>
+      <title>4.5</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8809082323227</id>
+      <title>9.5</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku>71-L125</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8809082323227</id>
+      <title>11.5</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>71-L207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8809082323227</id>
+      <title>12</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L287</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8809080750363</id>
+    <published>2023-11-28T15:18:45-05:00</published>
+    <updated>2023-11-28T15:18:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-slides-azure"/>
+    <title>Yeezy Slides Azure</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/24401a8e4dc4ca54a5efa92b1f2714fa.jpg?v=1701202725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8809080750363</id>
+      <title>9</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L198</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8803421880603</id>
+    <published>2023-11-25T00:03:25-05:00</published>
+    <updated>2023-11-25T00:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/bad-bunny-x-response-cl-paso-fino"/>
+    <title>Bad Bunny x Response CL Paso Fino</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/b0d252da6d7b4f6650e2a458e9dd9a53.jpg?v=1700888605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.00 - 250.00
+            <a href="https://wegotkickspr.com/products/bad-bunny-x-response-cl-paso-fino">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>5.5</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>6</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>7</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>7.5</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L291</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>8</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L138</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>9.5</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>71-L263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>10</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>71-L282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>10.5</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>71-L364</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>11</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>71-L345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8803421880603</id>
+      <title>11.5</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8795021541659</id>
+    <published>2023-11-19T21:21:58-05:00</published>
+    <updated>2023-11-19T21:21:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-foam-runner-stone-salt"/>
+    <title>Yeezy Foam Runner Stone Salt</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/386ddbbd9b22ee731ba1002c4eccad8e.jpg?v=1700446918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8795021541659</id>
+      <title>10</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>71-L90</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8795021476123</id>
+    <published>2023-11-19T21:21:56-05:00</published>
+    <updated>2023-11-19T21:21:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-foam-runner-carbon"/>
+    <title>Yeezy Foam Runner Carbon</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/6ba074a9a48eaead670b82a002ae5df6.jpg?v=1700446916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8795021476123</id>
+      <title>10</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>71-L89</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8795021476123</id>
+      <title>11</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>71-L118</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8795021410587</id>
+    <published>2023-11-19T21:21:52-05:00</published>
+    <updated>2023-11-19T21:21:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-450-slide-cream"/>
+    <title>Yeezy 450 Slide Cream</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/52ff6e502fcbe0c202882c0f8a84ef13.jpg?v=1700446912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8795021410587</id>
+      <title>10</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>71-L87</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8786648760603</id>
+    <published>2023-11-16T20:13:03-05:00</published>
+    <updated>2023-11-16T20:13:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/bad-bunny-x-campus-chalky-brown"/>
+    <title>Bad Bunny x Campus Chalky Brown</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/e6929256b04fcefff2a2fd2a79090adf.jpg?v=1700183583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            230.00 - 235.00
+            <a href="https://wegotkickspr.com/products/bad-bunny-x-campus-chalky-brown">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8786648760603</id>
+      <title>8.5</title>
+      <s:price currency="USD">235.00</s:price>
+      <s:sku>71-L73</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8786648760603</id>
+      <title>9</title>
+      <s:price currency="USD">235.00</s:price>
+      <s:sku>71-L74</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8786648760603</id>
+      <title>9.5</title>
+      <s:price currency="USD">235.00</s:price>
+      <s:sku>71-L75</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8786648760603</id>
+      <title>10.5</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>71-L289</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8786577883419</id>
+    <published>2023-11-16T19:09:09-05:00</published>
+    <updated>2023-11-16T19:09:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-slides-granite"/>
+    <title>Yeezy Slides Granite</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/d20fdc66867a0cef69afeef1fce5a35d.jpg?v=1700179750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            155.00 - 170.00
+            <a href="https://wegotkickspr.com/products/yeezy-slides-granite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8786577883419</id>
+      <title>8</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L63</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8786577883419</id>
+      <title>9</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8786577785115</id>
+    <published>2023-11-16T19:09:06-05:00</published>
+    <updated>2023-11-16T19:09:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-slides-onyx"/>
+    <title>Yeezy Slides Onyx</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/2b8db4e36238401b91637753a6adf96d.jpg?v=1700179746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            170.00 - 200.00
+            <a href="https://wegotkickspr.com/products/yeezy-slides-onyx">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8786577785115</id>
+      <title>4</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>71-L123</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8786577785115</id>
+      <title>9</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L62</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8772255187227</id>
+    <published>2023-11-11T15:09:56-05:00</published>
+    <updated>2023-11-11T15:09:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-boost-350-v2-bone"/>
+    <title>Yeezy Boost 350 V2 Bone</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/29e90860b531099bd503e5005571c61b.jpg?v=1699733396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772255187227</id>
+      <title>8.5</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>71-L30</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772255187227</id>
+      <title>10</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>71-L29</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8772254269723</id>
+    <published>2023-11-11T15:09:42-05:00</published>
+    <updated>2023-11-11T15:09:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-slide-glow-green-2022"/>
+    <title>Yeezy Slide Glow Green 2022</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/9ead3f56eb83eade3f45717b6ccfe825.jpg?v=1699733382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772254269723</id>
+      <title>9</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L242</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772254269723</id>
+      <title>10</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>71-L243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8772253843739</id>
+    <published>2023-11-11T15:09:23-05:00</published>
+    <updated>2023-11-11T15:09:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/bad-bunny-x-response-cl-triple-black"/>
+    <title>Bad Bunny x Response CL Triple Black</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/51726cd48dfb7b80040a5461e0c8d69b.jpg?v=1699733363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            210.00 - 250.00
+            <a href="https://wegotkickspr.com/products/bad-bunny-x-response-cl-triple-black">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253843739</id>
+      <title>6</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>71-L171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253843739</id>
+      <title>6.5</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L49</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253843739</id>
+      <title>8.5</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L299</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253843739</id>
+      <title>9</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>71-L163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253843739</id>
+      <title>10</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>71-L88</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253843739</id>
+      <title>10.5</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>71-L15</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8772253745435</id>
+    <published>2023-11-11T15:09:18-05:00</published>
+    <updated>2023-11-11T15:09:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-foam-runner-flax"/>
+    <title>Yeezy Foam Runner Flax</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/314a4dea7c7124ead7e79833f454cde7.jpg?v=1699733358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253745435</id>
+      <title>12</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>71-L13</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8772253581595</id>
+    <published>2023-11-11T15:09:13-05:00</published>
+    <updated>2023-11-11T15:09:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-boost-700-v2-tephra"/>
+    <title>Yeezy Boost 700 V2 Tephra</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/586263d711316a2df726c9e76a6b9af0.jpg?v=1699733353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            340.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253581595</id>
+      <title>12</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku>71-L11</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8772253516059</id>
+    <published>2023-11-11T15:09:08-05:00</published>
+    <updated>2023-11-11T15:09:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-slides-slate-grey"/>
+    <title>Yeezy Slides Slate Grey</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/12c6d59620f0083a75b37a6fa85e2f99.jpg?v=1699733348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            160.00 - 170.00
+            <a href="https://wegotkickspr.com/products/yeezy-slides-slate-grey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253516059</id>
+      <title>9</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L306</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253516059</id>
+      <title>10</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>71-L173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8772253483291</id>
+    <published>2023-11-11T15:09:06-05:00</published>
+    <updated>2023-11-11T15:09:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/yeezy-slides-slate-marine"/>
+    <title>Yeezy Slides Slate Marine</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/65f3021cb1fe674306af9ca1fceec859.jpg?v=1699733346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            165.00 - 170.00
+            <a href="https://wegotkickspr.com/products/yeezy-slides-slate-marine">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253483291</id>
+      <title>5</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253483291</id>
+      <title>7</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253483291</id>
+      <title>8</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253483291</id>
+      <title>9</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L305</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253483291</id>
+      <title>10</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>71-L205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253483291</id>
+      <title>11</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>71-L91</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8772253384987</id>
+    <published>2023-11-11T15:09:01-05:00</published>
+    <updated>2023-11-11T15:09:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/bad-bunny-x-campus-wild-moss"/>
+    <title>Bad Bunny x Campus Wild Moss</title>
+    <s:type></s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/dcd6f29ac8668c628e08db54a095e666.jpg?v=1699733341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00 - 265.00
+            <a href="https://wegotkickspr.com/products/bad-bunny-x-campus-wild-moss">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253384987</id>
+      <title>9</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>71-L48</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253384987</id>
+      <title>11</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>71-L288</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8772253384987</id>
+      <title>12</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku>71-L6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

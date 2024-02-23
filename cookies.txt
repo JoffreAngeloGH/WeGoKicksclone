@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wegotkickspr.com	TRUE	/en-ca	FALSE	1999999999	localization	CA
+wegotkickspr.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22reg%22%3A%22%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CMP%22%5D%2C%22region%22%3A%22PEHUC%22%2C%22v%22%3A%222.1%22%7D
+wegotkickspr.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+wegotkickspr.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+wegotkickspr.com	TRUE	/	FALSE	1999999999	localization	US
+wegotkickspr.com	TRUE	/	FALSE	1999999999	cart_currency	CAD
+wegotkickspr.com	TRUE	/	FALSE	1999999999	_shopify_y	5c4c2b33-77bb-4c20-99c3-295ad0162759
+wegotkickspr.com	TRUE	/	FALSE	1999999999	_shopify_s	da16960e-5544-42dd-8f45-ba4bc19ba39e
+wegotkickspr.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

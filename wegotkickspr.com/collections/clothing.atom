@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wegotkickspr.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wegotkickspr.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wegotkickspr.com/collections/clothing.atom"/>
+  <title>We Got Kicks</title>
+  <updated>2023-12-19T16:29:22-05:00</updated>
+  <author>
+    <name>We Got Kicks</name>
+  </author>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968622363</id>
+    <published>2023-12-19T16:29:22-05:00</published>
+    <updated>2023-12-19T16:29:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/anti-social-social-club-logo-2-tee-ss20-black"/>
+    <title>Anti Social Social Club Logo 2 Tee (SS20) Black</title>
+    <s:type></s:type>
+    <s:vendor>Anti Social Social Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/6f592a5f0824e20f281ecaef9d109bbb.webp?v=1703021362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anti Social Social Club<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968622363</id>
+      <title>S</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>71-L228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968589595</id>
+    <published>2023-12-19T16:29:20-05:00</published>
+    <updated>2023-12-19T16:29:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/anti-social-social-club-kkoch-tee-black"/>
+    <title>Anti Social Social Club Kkoch Tee Black</title>
+    <s:type></s:type>
+    <s:vendor>Anti Social Social Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/d6e11180ac7a8c4982dd0556b3d8595b.webp?v=1703021360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anti Social Social Club<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968589595</id>
+      <title>XXL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>71-L227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968556827</id>
+    <published>2023-12-19T16:29:15-05:00</published>
+    <updated>2023-12-19T16:29:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/anti-social-social-club-cancelled-t-shirt-black"/>
+    <title>Anti Social Social Club Cancelled T-shirt Black</title>
+    <s:type></s:type>
+    <s:vendor>Anti Social Social Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/8da344c1624b132078a59b0a7c73a05d.webp?v=1703021355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anti Social Social Club<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968556827</id>
+      <title>S</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>71-L225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968458523</id>
+    <published>2023-12-19T16:29:13-05:00</published>
+    <updated>2023-12-19T16:29:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/anti-social-social-club-x-fragment-blue-bolt-tee-fw19-black"/>
+    <title>Anti Social Social Club x Fragment Blue Bolt Tee (FW19) Black</title>
+    <s:type></s:type>
+    <s:vendor>Anti Social Social Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/7930098407e3cfc8928691e8670147d9.webp?v=1703021353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anti Social Social Club<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968458523</id>
+      <title>XXL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>71-L224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968327451</id>
+    <published>2023-12-19T16:29:08-05:00</published>
+    <updated>2023-12-19T16:29:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/anti-social-social-club-x-fragment-precious-petals-tee-fw22-black-green"/>
+    <title>Anti Social Social Club x Fragment Precious Petals Tee (FW22) Black Green</title>
+    <s:type></s:type>
+    <s:vendor>Anti Social Social Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/959baea007dbdd9c6c56a00f1680a41a.webp?v=1703021348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anti Social Social Club<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968327451</id>
+      <title>S</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>71-L222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968327451</id>
+      <title>L</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>71-L223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968294683</id>
+    <published>2023-12-19T16:28:56-05:00</published>
+    <updated>2023-12-19T16:28:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/fear-of-god-essentials-t-shirt-off-black"/>
+    <title>Fear of God Essentials T-shirt Off Black</title>
+    <s:type></s:type>
+    <s:vendor>Fear of God</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/29eedf3acc2c61b55959e13f9eb2bf15.webp?v=1703021336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fear of God<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968294683</id>
+      <title>XS</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968294683</id>
+      <title>S</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L218</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968294683</id>
+      <title>M</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968294683</id>
+      <title>XL</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968261915</id>
+    <published>2023-12-19T16:28:52-05:00</published>
+    <updated>2023-12-19T16:28:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/fear-of-god-essentials-t-shirt-ss22-light-oatmeal"/>
+    <title>Fear of God Essentials T-shirt (SS22) Light Oatmeal</title>
+    <s:type></s:type>
+    <s:vendor>Fear of God</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/4306e7409a65c8e61e295295cc9d2fd9.webp?v=1703021332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fear of God<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968261915</id>
+      <title>S</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968261915</id>
+      <title>M</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968196379</id>
+    <published>2023-12-19T16:28:48-05:00</published>
+    <updated>2023-12-19T16:28:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/fear-of-god-essentials-boxy-t-shirt-applique-logo-olive-khaki"/>
+    <title>Fear of God Essentials Boxy T-Shirt Applique Logo Olive/Khaki</title>
+    <s:type></s:type>
+    <s:vendor>Fear of God</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/b7f8194e3986bc8e97ae2edc69ceca2c.webp?v=1703021328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fear of God<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968196379</id>
+      <title>XS</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968196379</id>
+      <title>S</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968196379</id>
+      <title>XL</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968163611</id>
+    <published>2023-12-19T16:28:44-05:00</published>
+    <updated>2023-12-19T16:28:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/fear-of-god-essentials-boxy-t-shirt-applique-logo-taupe"/>
+    <title>Fear of God Essentials Boxy T-Shirt Applique Logo Taupe</title>
+    <s:type></s:type>
+    <s:vendor>Fear of God</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/0f908886fcf8f84edb0777048c1231f1.webp?v=1703021324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fear of God<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968163611</id>
+      <title>XS</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968163611</id>
+      <title>M</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968130843</id>
+    <published>2023-12-19T16:28:41-05:00</published>
+    <updated>2023-12-19T16:28:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/fear-of-god-essentials-boxy-t-shirt-applique-logo-butter-cream"/>
+    <title>Fear of God Essentials Boxy T-Shirt Applique Logo Butter Cream</title>
+    <s:type></s:type>
+    <s:vendor>Fear of God</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/db78772e88d652ee381c63978c369fc0.webp?v=1703021321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fear of God<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968130843</id>
+      <title>XS</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L209</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968130843</id>
+      <title>XL</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>71-L210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wegotkickspr.com/products/8832968098075</id>
+    <published>2023-12-19T16:28:39-05:00</published>
+    <updated>2023-12-19T16:28:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wegotkickspr.com/products/hellstar-records-t-shirt-off-white"/>
+    <title>Hellstar Records T-shirt Off-White</title>
+    <s:type></s:type>
+    <s:vendor>Hellstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0729/6011/4971/products/40a2bc4d9167e99718c9bc9692cefaa4.webp?v=1703021319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellstar<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wegotkickspr.com/products/8832968098075</id>
+      <title>L</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>71-L208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
