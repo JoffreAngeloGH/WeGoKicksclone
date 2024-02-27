@@ -829,7 +829,7 @@ for (var attr in meta) {
                                 </button>
                                 <ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li><a href="friends-family-exclusive.html" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
                                           <!-- WGK Products -->
-                                        </a></li><li><a href="clothing.html" class="menu-drawer__menu-item link link--text list-menu__item focus-inset menu-drawer__menu-item--active" aria-current="page">
+                                        </a></li><li><a href="clothing.php" class="menu-drawer__menu-item link link--text list-menu__item focus-inset menu-drawer__menu-item--active" aria-current="page">
                                           Cerámicas
                                         </a></li><li><a href="air-jordan.html" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
                                           Cuadros decorativos
@@ -904,7 +904,7 @@ for (var attr in meta) {
                   </a></li><li><a href="../pages/contact.html" class="header__menu-item list-menu__item link link--text focus-inset">
                     <span>Contacto </span>
                   </a></li></ul>
-        </nav><a href="../index.html" class="header__heading-link link link--text focus-inset"><img src="../cdn/shop/files/logo.jpg" alt="We Got Kicks"  width="90" height="44.66165413533835" class="header__heading-logo">
+        </nav><a href="../index.html" class="header__heading-link link link--text focus-inset"><img src="../cdn/shop/files/logo.png" alt="We Got Kicks"class="header__heading-logo">
 </a><div class="header__icons">
       <details-modal class="header__search">
         <details>
@@ -1900,8 +1900,17 @@ for (var attr in meta) {
         style="--ratio-percent: 71.3097713097713%;"
       ><div class="card__media">
             <div class="media media--transparent media--hover-effect">
-              
-              <img
+              <?php
+              include "../conexion.php";
+              $sql = "SELECT * FROM producto WHERE idproducto=1";
+    
+              $datos = $cone->query($sql);
+    
+              foreach ($datos as $pro) {
+              echo "<td><img src='cdn/shop/products/" . $pro['imagen'] . "' style='width: 20%; height: auto; display: block; margin-left: auto; margin-right: auto;'></td>";
+              }
+              ?>
+              <!-- <img
 
                 src="../cdn/shop/products/ceramica-chavin.jpg"
                 sizes="(min-width: 1100px) 242px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
@@ -1910,7 +1919,7 @@ for (var attr in meta) {
                 
                 width="1924"
                 height="1372"
-              >
+              > -->
               
 </div>
           </div><div class="card__content">
@@ -1919,14 +1928,24 @@ for (var attr in meta) {
               class="card__heading"
               
             >
-              <a
-                href="../products/wgk-black-tee.html"
-                id="StandardCardNoMediaLink-template--18121117565211__product-grid-8832968163611"
-                class="full-unstyled-link"
-                aria-labelledby="StandardCardNoMediaLink-template--18121117565211__product-grid-8832968163611 NoMediaStandardBadge-template--18121117565211__product-grid-8832968163611"
-              >
-              Cerámica Chavín
-              </a>
+            <a
+              href="../products/ceramica-chavin.php"
+              id="CardLink-template--18121117565211__product-grid-8832968163611"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--18121117565211__product-grid-8832968163611 Badge-template--18121117565211__product-grid-8832968163611"
+            >
+            <?php
+            include "../conexion.php";
+          $sql = "SELECT * FROM producto WHERE idproducto=1";
+
+          $datos = $cone->query($sql);
+
+          foreach ($datos as $pro) {
+         
+          echo "<td>" . $pro['nombre'] . "</td>";
+          }
+          ?>
+            </a>
             </h3>
           </div>
           <div class="card__badge bottom left"></div>
@@ -1941,12 +1960,23 @@ for (var attr in meta) {
             
           >
             <a
-              href="../products/wgk-black-tee.html"
+            href="../products/ceramica-chavin.php"
               id="CardLink-template--18121117565211__product-grid-8832968163611"
               class="full-unstyled-link"
               aria-labelledby="CardLink-template--18121117565211__product-grid-8832968163611 Badge-template--18121117565211__product-grid-8832968163611"
             >
-            Cerámica Chavín
+            <?php
+          include "../conexion.php";
+          $sql = "SELECT * FROM producto WHERE idproducto=1";
+
+          $datos = $cone->query($sql);
+
+          foreach ($datos as $pro) {
+         
+          echo "<td>" . $pro['nombre'] . "</td>";
+          }
+          ?>
+
             </a>
           </h3>
           <div class="card-information"><span class="caption-large light"></span>
@@ -1955,7 +1985,16 @@ for (var attr in meta) {
   <div class="price__container"><div class="price__regular">
       <span class="visually-hidden visually-hidden--inline">Precio regular</span>
       <span class="price-item price-item--regular">
-        S/ 450.00 
+      <?php
+          include "../conexion.php";
+          $sql = "SELECT * FROM producto WHERE idproducto=1";
+
+          $datos = $cone->query($sql);
+
+          foreach ($datos as $pro) {}
+         
+          echo "<td>S/. " . $pro['precio'] . ".00</td>";
+          ?>
       </span>
     </div>
     <div class="price__sale">

@@ -1355,7 +1355,17 @@ for (var attr in meta) {
                 class="product__text caption-with-letter-spacing"
                 
               >ArtesanHCO</p><div class="product__title" >
-                <h1>Cerámica Chavín</h1>
+                <h1><?php
+          include "../conexion.php";
+          $sql = "SELECT * FROM producto WHERE idproducto=1";
+
+          $datos = $cone->query($sql);
+
+          foreach ($datos as $pro) {
+         
+          echo "<td>" . $pro['nombre'] . "</td>";
+          }
+          ?></h1>
                 <a href="wgk-black-tee.html" class="product__title">
                   <h2 class="h1">
                     Cerámica Chavín
@@ -1367,7 +1377,16 @@ for (var attr in meta) {
   <div class="price__container"><div class="price__regular">
       <span class="visually-hidden visually-hidden--inline">Precio regular</span>
       <span class="price-item price-item--regular">
-        S/ 450.00
+      <?php
+          include "../conexion.php";
+          $sql = "SELECT * FROM producto WHERE idproducto=1";
+
+          $datos = $cone->query($sql);
+
+          foreach ($datos as $pro) {}
+         
+          echo "<td>S/. " . $pro['precio'] . ".00</td>";
+          ?>
       </span>
     </div>
     <div class="price__sale">
@@ -1770,8 +1789,18 @@ for (var attr in meta) {
 
     <script src="../cdn/shop/t/1/assets/pickup-availability7cfe.js?v=79308454523338307861678292898" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden" >
-                  <p>Las cerámicas son excepcionales. Suele ser sencillas, de forma esférica y maciza, de asa puente grueso y curvo, decorada con tallas o altos relieves, a veces con decoraciones rojas, negras y grises. Los colores más utilizados son: gris, marrón y negro.
-                    de forma esférica y maciza, de asa puente grueso y curvo, decorada con tallas o altos relieves.</p>
+                  <p>
+                    <?php
+          include "../conexion.php";
+          $sql = "SELECT * FROM producto WHERE idproducto=1";
+
+          $datos = $cone->query($sql);
+
+          foreach ($datos as $pro) {
+         
+          echo "<td>" . $pro['descrip'] . "</td>";
+          }
+          ?></p>
                 </div>
               
 <script src="../cdn/shop/t/1/assets/shared8b6.js?v=23059556731731026671678292912" defer="defer"></script>
